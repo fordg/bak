@@ -1,0 +1,5 @@
+controller : detail
+		function add_to_cart
+
+view : cart
+	detail

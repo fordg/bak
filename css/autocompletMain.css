@@ -1,0 +1,18 @@
+
+table{border-collapse:collapse;border-spacing:0}
+ol,ul{list-style:none}
+caption,th{text-align:left}
+q:before,q:after{content:''}
+body * {line-height:1.22em}
+body {
+	color: #202020;
+}
+
+
+ul {
+	list-style: disc inside;
+}
+
+
+input[type=text] { width: 10em; height: 1.8em; }
+
